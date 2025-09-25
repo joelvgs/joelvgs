@@ -88,7 +88,6 @@ I'm a passionate Computer Science Engineering student at **VIT Bhopal University
 
 <div align="center">
   
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelvgs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelvgs&layout=compact&theme=radical&hide_border=true)
 
