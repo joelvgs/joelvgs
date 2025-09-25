@@ -116,17 +116,11 @@ I'm a passionate Computer Science Engineering student at **VIT Bhopal University
 
 ---
 
-## 📈 Activity Graph
-
-[![Joel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joelvgs&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 <div align="center">
   
 ### 🚀 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=joelvgs&color=brightgreen&style=flat-square)
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
