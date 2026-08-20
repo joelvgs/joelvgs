@@ -56,7 +56,7 @@ I'm a passionate Computer Science Engineering student at **Vellore Institute of 
 - Led a 4-member team to design, train, and benchmark classifiers on precision, recall, and latency
 - Delivered a working PoC with prescription recommendations, presented and validated with faculty evaluators
 
-### 🌱 Plant Disease Detection
+### 🌱 [Plant Disease Detection](https://github.com/joelvgs/Plant-Disease-Detection)
 > CNN-based plant disease classification system
 - **Tech Stack:** TensorFlow, Keras, OpenCV, VGG16, Flask
 - Used VGG16 transfer learning with OpenCV-based image preprocessing, deployed via a Flask web interface
