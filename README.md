@@ -1,4 +1,4 @@
-# Hi there, I'm Joel Varghese! 👋
+# Hi there, I'm Joel J Varghese! 👋
 
 <div align="center">
   
@@ -10,77 +10,72 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science Engineering student at **VIT Bhopal University** with a keen interest in **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**. I love building innovative solutions that solve real-world problems and contribute to open-source projects.
+I'm a passionate Computer Science Engineering student at **Vellore Institute of Technology (VIT Bhopal)** with a keen interest in **Artificial Intelligence**, **Machine Learning**, and **Generative AI / LLMs**. I love building innovative solutions that solve real-world problems and contribute to open-source projects.
 
-- 🎓 **Currently pursuing:** B.Tech in Computer Science & Engineering (CGPA: 8.10/10.0)
-- 🔭 **Working on:** AI-driven healthcare applications and plant disease detection systems
-- 🌱 **Learning:** Advanced Machine Learning techniques and Cloud Computing
+- 🎓 **Currently pursuing:** B.Tech in Computer Science & Engineering (2023 – 2027) | CGPA: 8.14/10.0
+- 🔭 **Working on:** AI-driven healthcare diagnostics and plant disease detection systems
+- 🌱 **Learning:** Generative AI & LLM landscape, advanced Machine Learning techniques
 - 👯 **Looking to collaborate on:** Open source projects, AI/ML applications
-- 💬 **Ask me about:** Python, Java, Machine Learning, Web Development
-- 📫 **Reach me:** [joelvgs05@gmail.com](mailto:joelvgs05@gmail.com)
-- ⚡ **Fun fact:** I enjoy volunteering at college events and building GUI applications
+- 💬 **Ask me about:** Python, Machine Learning, SQL, Data Pipelines
+- 📫 **Reach me:** [joelvgs22@gmail.com](mailto:joelvgs22@gmail.com) | +91-8815938846
+- 🔗 **All my links:** [linktr.ee/joelvgs](https://linktr.ee/joelvgs)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### AI/ML & Data Science
+### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+### Web & App Frameworks
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 ### Cloud & Tools
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🏥 [AI-Driven Healthcare Web App](https://github.com/joelvgs/Ai-Driven-Healthcare-Webapp)
-> Disease prediction system using ensemble ML models
-- **Tech Stack:** Python, Streamlit, Random Forest, SVM, Naive Bayes
-- **Features:** Symptom-based prediction, prescription suggestions, comprehensive documentation
+### 🏥 [AI-Driven Healthcare Diagnostic & Prediction Platform](https://github.com/joelvgs/Ai-Driven-Healthcare-Webapp)
+> Ensemble ML + NLP-based disease prediction system
+- **Tech Stack:** Streamlit, Python, Scikit-learn, NLP
+- Combined ensemble classifiers (Random Forest, SVM, Naive Bayes) with NLP-based symptom matching
+- Led a 4-member team to design, train, and benchmark classifiers on precision, recall, and latency
+- Delivered a working PoC with prescription recommendations, presented and validated with faculty evaluators
 
-### 🌱 Plant Disease Detection System
+### 🌱 Plant Disease Detection
 > CNN-based plant disease classification system
-- **Tech Stack:** TensorFlow, OpenCV, VGG16, Python
-- **Achievement:** High accuracy disease classification with real-time detection
-
-### 📦 Inventory Management System
-> Desktop GUI application for business inventory management
-- **Tech Stack:** Python, Tkinter, SQLite, PIL
-- **Features:** CRUD operations, image display, user-friendly interface
+- **Tech Stack:** TensorFlow, Keras, OpenCV, VGG16, Flask
+- Used VGG16 transfer learning with OpenCV-based image preprocessing, deployed via a Flask web interface
+- Built a data augmentation and training pipeline for real-time inference
+- Achieved ~96% validation and ~95% test accuracy on the PlantVillage dataset
 
 ---
 
 ## 💼 Experience
 
-**🔹 AI & Azure Intern** | *Microsoft AI & Azure Internship Program* | May-June 2025
-- Hands-on experience with Azure AI services and cloud deployment
-- Built capstone project using Azure AI tools
+**🔹 AI/ML Intern** | *MPOnline Limited* | May – July 2026
+- Developed and evaluated predictive ML models using Python and Scikit-learn to analyze service transaction trends and operational workflows
+- Built data cleaning, feature engineering, and validation pipelines across large-scale relational datasets using SQL and Pandas
+- Designed analytical dashboards and integrated model inference scripts for automated reporting and portal performance monitoring
 
-**🔹 Python Programming Intern** | *BrainWave Matrix Solutions* | March-April 2025
-- Developed ATM simulator and inventory management systems
-- Implemented secure authentication and database operations
+**🔹 Python Programming Intern** | *BrainWave Matrix Solutions* | March – April 2025
+- Built and tested desktop software prototypes (ATM simulator, inventory tracking) using Python, Tkinter, and SQLite
+- Implemented structured database schemas and CRUD operations with functional testing for data consistency
+- Documented system architecture, edge-case handling protocols, and operational workflows
 
 ---
 
@@ -95,12 +90,18 @@ I'm a passionate Computer Science Engineering student at **VIT Bhopal University
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Continuous Learning
 
-- 🤖 **AI/ML Fundamentals** - Industry-recognized certification
-- 🐍 **Python Programming** - Advanced programming concepts
-- ☕ **Java Programming** - Object-oriented programming
-- ☁️ **Microsoft Azure Fundamentals** *(In Progress)*
+- 🤖 **AI & ML Fundamentals**
+- 🐍 **Python Essentials**
+- 🌐 **Coursera:** The Bits and Bytes of Computer Networking
+
+---
+
+## 🎭 Extracurricular Activities
+
+- **Campus Event Volunteer, VIT Bhopal** — Managed operations and logistical planning for university events (Nov 2023 – Present)
+- **Cultural & Performing Arts Participant** — Collaborated in multi-team university cultural and creative showcases (Sargam, Glam VIT)
 
 ---
 
@@ -110,7 +111,8 @@ I'm a passionate Computer Science Engineering student at **VIT Bhopal University
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-varghese-155256327/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joelvgs)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelvgs05@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelvgs22@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/joelvgs)
 
 </div>
 
